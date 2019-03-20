@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Мифы и легенды</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="name_program">Мифы и легенды</string>
+
+    <string name="resource_directory">file:///android_asset/HTML/</string>
+
+    <string name="action_settings">Выход</string>
+    <string name="view">Перейти к чтению…</string>
+    <string name="fullsizeFont">Большой шрифт</string>
+
+    <string name="autor">S.King</string>
+
+    <!--<string name="additional">Почитать</string>-->
+    <string name="error">Ошибка!</string>
+
+    <string name="search_hint">Поиск</string>
+    <string name="of">из</string>
+    <string name="not_found">Нет результатов</string>
+
+    <string name="mysearch">ВКЛ. ПОИСК</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="frame00">  Список мифов и легенд</string>
+    <string name="frame01">  Лох-Нессокое чудовище</string>
+    <string name="frame02">  Снежный человек</string>
+    <string name="frame03">  Единорог</string>
+    <string name="frame04">  Кракен</string>
+    <string name="frame05">  Дракон</string>
+</resources>
